@@ -20,7 +20,7 @@ public class BankAccount {
     public void setAccName(String accName) {
         this.accName = accName;
     }
-    
+
 
     public void deposit(double amount) {
         balance = balance + amount;

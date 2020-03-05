@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="372dabd7-5b60-49b3-b9c6-ca7a931e2620" name="默认更改列表" comment="" />
+    <list default="true" id="372dabd7-5b60-49b3-b9c6-ca7a931e2620" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lab1/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SE-lab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab/project/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab1/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab1/CurrentAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/CurrentAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab1/SaverAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/SaverAccount.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +23,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1YcVCYbv6sIvVtSBCf5xly1V6qs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,10 +39,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.test">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="project.Main" />
-      <module name="lab" />
+      <module name="SE-lab" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -36,6 +50,71 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab1.test" />
+      <module name="SE-lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="SE-lab" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="SE-lab" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -59,7 +138,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583241742855</updated>
-      <workItem from="1583241747591" duration="9693000" />
+      <workItem from="1583241747591" duration="10191000" />
+      <workItem from="1583385241452" duration="2164000" />
     </task>
     <servers />
   </component>
@@ -71,5 +151,25 @@
       <screen x="0" y="23" width="1680" height="945" />
     </state>
     <state x="668" y="167" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1680.945@0.23.1680.945" timestamp="1583243854551" />
+    <state width="679" height="252" key="GridCell.Tab.0.bottom" timestamp="1583388020085">
+      <screen x="0" y="23" width="1680" height="948" />
+    </state>
+    <state width="679" height="252" key="GridCell.Tab.0.bottom/0.23.1680.948@0.23.1680.948" timestamp="1583388020085" />
+    <state width="679" height="252" key="GridCell.Tab.0.center" timestamp="1583388020083">
+      <screen x="0" y="23" width="1680" height="948" />
+    </state>
+    <state width="679" height="252" key="GridCell.Tab.0.center/0.23.1680.948@0.23.1680.948" timestamp="1583388020083" />
+    <state width="679" height="252" key="GridCell.Tab.0.left" timestamp="1583388020082">
+      <screen x="0" y="23" width="1680" height="948" />
+    </state>
+    <state width="679" height="252" key="GridCell.Tab.0.left/0.23.1680.948@0.23.1680.948" timestamp="1583388020082" />
+    <state width="679" height="252" key="GridCell.Tab.0.right" timestamp="1583388020084">
+      <screen x="0" y="23" width="1680" height="948" />
+    </state>
+    <state width="679" height="252" key="GridCell.Tab.0.right/0.23.1680.948@0.23.1680.948" timestamp="1583388020084" />
+    <state x="631" y="423" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583388015197">
+      <screen x="0" y="23" width="1680" height="948" />
+    </state>
+    <state x="631" y="423" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.948@0.23.1680.948" timestamp="1583388015197" />
   </component>
 </project>
