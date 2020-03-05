@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class Bank {
     private ArrayList<BankAccount> bank= new ArrayList<BankAccount>();
+    private int status;
     String name,address;
 
 
@@ -36,6 +37,13 @@ public class Bank {
             }
         }
     }
+    public boolean suspend(){
+        if (status == 2)       // this status "2" represent be suspended
+        return false;
+        else
+        return true;
+    }
+
 
     }
 
